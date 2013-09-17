@@ -1,0 +1,14 @@
+/* humanstxt.org */
+
+description
+                            
+/* TEAM */
+  Web designer: 
+  Site:                           
+  Twitter: 
+  Location: 
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal
+  Software: SourceTree, Textmate, Git, mixture.io, Espresso
