@@ -11,5 +11,5 @@ SDIR=`realpath "$0"`
 SDIR=`dirname $SDIR`
 
 cd $SDIR/../html 
-~/git/wp-cli/bin/wp db export ../db/manantialesdevida_dev.sql 
+wp db export ../db/dev.sql 
 sleep 10
